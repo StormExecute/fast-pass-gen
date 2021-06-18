@@ -1,0 +1,27 @@
+{
+  "name": "fast-pass-gen",
+  "version": "1.0.0",
+  "author": "cotenochek",
+  "license": "MIT",
+  "description": "Fast password generator",
+  "homepage": "https://github.com/StormExecute/fast-pass-gen/#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StormExecute/fast-pass-gen.git"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "pass-gen",
+    "pass",
+    "password",
+    "gen",
+    "generator",
+    "fast-pass-gen"
+  ]
+}
